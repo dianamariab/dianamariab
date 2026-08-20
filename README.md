@@ -6,8 +6,8 @@ I enjoy exploring how data and technology can be used to understand problems, im
 
 ## Education
 
-- Master's in **Applied Data Analytics** — Bucharest University of Economic Studies
-- Bachelor's in **Economic Cybernetics** — Bucharest University of Economic Studies
+- Master's in **Applied Data Analytics** - Bucharest University of Economic Studies
+- Bachelor's in **Economic Cybernetics** - Bucharest University of Economic Studies
 
 ## Technical Skills
 
@@ -18,7 +18,7 @@ I enjoy exploring how data and technology can be used to understand problems, im
 ## Currently
 
 - Developing my skills in **Data Analytics and Business Intelligence**
-- Currently expanding my practical skills in SQL, Python and Power BI
+- Expanding my practical skills in SQL, R, Python and Power BI
 - Interested in opportunities at the intersection of **data, business and technology**
 
 ## Projects
