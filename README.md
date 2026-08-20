@@ -2,7 +2,7 @@
 
 I'm a Master's student in **Applied Data Analytics** with a background in **Economic Cybernetics** and a strong interest in data and the convergence of **technology and economics**.
 
-I enjoy exploring how data and technology can be used to understand problems, improve processes, and support better decision-making. I'm curious, adaptable, and eager to gain hands-on experience while continuously developing my technical and analytical skills.
+I enjoy exploring how data and technology can be used to understand problems, improve processes and support better decision-making. I'm curious, adaptable and eager to gain hands-on experience while continuously developing my technical and analytical skills.
 
 ## Education
 
